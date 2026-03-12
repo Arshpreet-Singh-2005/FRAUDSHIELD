@@ -9,9 +9,9 @@ A real-time credit card fraud detection system built with **XGBoost** and **Fast
 
 ---
 
-## 🚀 Live Demo
+##  Live Demo
 
-> API Docs: `https://your-app.onrender.com/docs`
+> API Docs: https://fraudshield-sbko.onrender.com/
 
 ---
 
