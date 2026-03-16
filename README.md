@@ -18,15 +18,6 @@
 
 ---
 
-## 📸 Screenshots
-
-### Dashboard Overview
-![FraudShield Dashboard](https://raw.githubusercontent.com/Arshpreet-Singh-2005/FRAUDSHIELD/main/assets/dashboard.png)
-
-> The dashboard shows live probability history, session distribution donut chart, model performance metrics, and top feature importances — all updating in real time as you analyze transactions.
-
----
-
 ## ✨ Features
 
 - **⚡ Real-Time Predictions** — Sub-5ms fraud scoring via Uvicorn ASGI server
