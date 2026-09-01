@@ -1,3 +1,6 @@
-creditcard.csv 
-__pycache__/ 
-*.pyc 
+creditcard.csv
+__pycache__/
+*.pyc
+*.db
+.pytest_cache/
+.env

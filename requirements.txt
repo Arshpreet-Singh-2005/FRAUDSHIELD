@@ -6,3 +6,6 @@ numpy
 pandas
 pydantic
 python-multipart
+sqlalchemy
+pytest
+httpx
